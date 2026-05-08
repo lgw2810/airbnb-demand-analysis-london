@@ -8,11 +8,15 @@ This project analyzes Airbnb listing data in London to identify trends in bookin
 The project combines data cleaning, descriptive analytics, and visualization techniques to generate business insights using real-world Airbnb data.
 
 ## Tools Used
-- Excel (Power Query)
+
+- Excel (Power Query, Pivot Tables)
 - Tableau
-- Data Visualization techniques
+- Data Visualization
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
 
 ## Key Insights
+
 - Demand varies seasonally across the year
 - Certain neighborhoods consistently show higher activity
 - Review metrics help indicate demand trends
