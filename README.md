@@ -7,6 +7,10 @@ This project analyzes Airbnb listing data in London to identify trends in bookin
 
 The project combines data cleaning, descriptive analytics, and visualization techniques to generate business insights using real-world Airbnb data.
 
+## Full Report
+
+[Report_ Airbnb.pdf](https://github.com/user-attachments/files/27541614/Report_.Airbnb.pdf)
+
 ## Tools Used
 
 - Excel (Power Query, Pivot Tables)
@@ -39,10 +43,8 @@ Listings.csv
 
 London, United Kingdom
 
-## Report
-[Report_ Airbnb.pdf](https://github.com/user-attachments/files/27541614/Report_.Airbnb.pdf)
-
 ## Presentation
+
 [Airbnb in London, United Kingdom Airbnb in London, United Kingdom Air bnb in London, United Kingdom.pdf](https://github.com/user-attachments/files/27541616/Airbnb.in.London.United.Kingdom.Airbnb.in.London.United.Kingdom.Air.bnb.in.London.United.Kingdom.pdf)
 
 ## Visuals
