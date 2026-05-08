@@ -22,7 +22,9 @@ Due to file size limitations on GitHub, the full dataset is not included in this
 
 You can access the data here:
 http://insideairbnb.com/get-the-data/
+
 Listings.csv
+
 London, United Kingdom
 
 ## Report
