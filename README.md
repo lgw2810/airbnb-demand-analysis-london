@@ -15,6 +15,11 @@ The project combines data cleaning, descriptive analytics, and visualization tec
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 
+## Business Questions
+
+- What factors lead to highly booked or highly rated Airbnb listings?
+- How does Airbnb demand change over time and across neighborhoods in London?
+  
 ## Key Insights
 
 - Demand varies seasonally across the year
