@@ -2,7 +2,11 @@
 # Airbnb Demand Analysis – London
 
 ## Overview
-This project analyzes Airbnb listing data in London to understand demand trends over time and across neighborhoods.
+## Project Overview
+
+This project analyzes Airbnb listing data in London to identify trends in booking demand, pricing behavior, seasonality, and geographic distribution. The analysis was designed to explore how factors such as location, room type, pricing, and host status influence Airbnb performance.
+
+The project combines data cleaning, descriptive analytics, and visualization techniques to generate business insights using real-world Airbnb data.
 
 ## Tools Used
 - Excel (Power Query)
